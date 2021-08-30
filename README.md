@@ -3,8 +3,6 @@
   <img src="https://storage.googleapis.com/docker-images-registry/animatedEmoji.gif" width="50"/>
   HELLO WORLD
 <h1>
-  
-![Apresentacao](https://storage.googleapis.com/docker-images-registry/github-main-image-jonas.png)
 
 ### 
   
