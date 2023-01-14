@@ -2,9 +2,8 @@
 <h1>
   HELLO WORLD
 <h1>
-###
-
   
+######
 Olá, sou Jonas Barros, atualmente resido no Brasil, desenvolvedor de software desde 2018, trabalhando e estudando principalmente as linguagens python e javaScript, mas também tenho estudado com muita frequênquencia o kubernetes e o terraform. Sempre que tenho algumas horas livres procuro estudar sobre machine learning gosto muito de tudo que envolve esse maravilhoso ecossistema que está revolucionando a forma de trabalhar de diversas areas profissionais. 
 
 ### Repositórios relevantes
