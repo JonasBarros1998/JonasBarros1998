@@ -2,8 +2,7 @@
 <h1>
   HELLO WORLD
 <h1>
-  
-######
+
 Olá, sou Jonas Barros, atualmente resido no Brasil, desenvolvedor de software desde 2018, trabalhando e estudando principalmente as linguagens Java e JavaScript. Atuo no desenvolvimento de microsserviços escalaveis utilizando as ferramentas da AWS como lambda, EC2, Fargate, SQS e SNS, EC2. Já atuei também na migração de projetos legados rodando em servidores on-premise Google Cloud platform, utilizando Google Cloud Engine e GCP Mysql e Ruby.
 Atualmente também estou cursando pos graduação de Arquitetura e Desenvolvimento Java na FIAP, onde atualmente na fase 3, estamos estudando ferramentas serveless da AWS, RDS com postgreSQL e banco de dados NOSQL tudo isso integrado com o JAVA.
 
